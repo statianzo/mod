@@ -1,0 +1,19 @@
+{
+  "name": "mod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "yarn": "^0.16.1"
+  },
+  "dependencies": {
+    "jest": "^16.0.2",
+    "jscodeshift": "^0.3.29"
+  }
+}
